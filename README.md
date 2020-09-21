@@ -1,4 +1,4 @@
-# Text Analysis With R - Customer Reviews from Trip Advisor and Yelp 
+# Text Analysis With R - Customer Reviews Analysis
 
 Hotels as part of the service industry are highly focused on the quality of the intangible products: customer service. Online travel forums have become extremely popular for sharing information. With the recent rise of social networks and a large number of reviews being posted daily, the hotel industry has access to a large and growing number of online customer reviews from the travel portals. Hoteliers can use these data to generate insights about their customers and understand what their values are, and ultimately, to discover potential opportunities of hotel operation improvements and personalize customer service.
 
