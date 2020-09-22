@@ -221,4 +221,3 @@ couples_stop_words <- tribble(
 stop_words_couple<-stop_words %>% bind_rows(couples_stop_words)
 bigrams(ta_couple, "TripAdvisor as Couples")
 
-?bind_rows
